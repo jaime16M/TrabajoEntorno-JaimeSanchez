@@ -1,0 +1,10 @@
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\bin\Debug\netcoreapp2.1\Operación Matemática en Csharp.deps.json
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\bin\Debug\netcoreapp2.1\Operación Matemática en Csharp.runtimeconfig.json
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\bin\Debug\netcoreapp2.1\Operación Matemática en Csharp.runtimeconfig.dev.json
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\bin\Debug\netcoreapp2.1\Operación Matemática en Csharp.dll
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\bin\Debug\netcoreapp2.1\Operación Matemática en Csharp.pdb
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\obj\Debug\netcoreapp2.1\Operación Matemática en Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\obj\Debug\netcoreapp2.1\Operación Matemática en Csharp.AssemblyInfoInputs.cache
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\obj\Debug\netcoreapp2.1\Operación Matemática en Csharp.AssemblyInfo.cs
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\obj\Debug\netcoreapp2.1\Operación Matemática en Csharp.dll
+C:\Users\Elan\source\repos\ConsoleApp2\Operación Matemática en Csharp\obj\Debug\netcoreapp2.1\Operación Matemática en Csharp.pdb
